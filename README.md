@@ -1,4 +1,4 @@
-# SCT_WB_2
+# SCT_WD_2
 STOPWATCH WEB APPLICATION
 
 Link of the application: 
