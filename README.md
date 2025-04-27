@@ -2,7 +2,7 @@
 STOPWATCH WEB APPLICATION
 
 
-This is an interactive and user-friendly stopwatch web appliacation.
+This is an interactive and user-friendly stopwatch web application.
 
 It contains functions such as
 start,pause,reset,lap times,clear laps
